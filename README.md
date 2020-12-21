@@ -47,23 +47,72 @@ This school website has four users:
  <img src="DEMO_IMAGES/demo3.png">
  
  </div>
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo4.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo4.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo5.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo5.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo6.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo6.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo7.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo7.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo8.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo8.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo9.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo9.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo10.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo10.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo11.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo11.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo12.png">
+ 
+ </div>
 
-![](DEMO_IMAGES/demo12.png)
-
-![](DEMO_IMAGES/demo13.png)
+<div>
+  <h3>   </h3>
+  
+ <img src="DEMO_IMAGES/demo13.png">
+ 
+ </div>
