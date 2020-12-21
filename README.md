@@ -76,21 +76,21 @@ This school website has four users:
  </div>
 
 <div>
-  <h3>   </h3>
+  <h3> Student can search exam result by subject and attendance by date  </h3>
   
  <img src="DEMO_IMAGES/demo8.png">
  
  </div>
 
 <div>
-  <h3>   </h3>
+  <h3> Result of searching exam result by subject (Bangla)   </h3>
   
  <img src="DEMO_IMAGES/demo9.png">
  
  </div>
 
 <div>
-  <h3>   </h3>
+  <h3> Result of searching attendance by date (3-1-2019)  </h3>
   
  <img src="DEMO_IMAGES/demo10.png">
  
