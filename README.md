@@ -48,7 +48,7 @@ This school website has four users:
  
  </div>
 <div>
-  <h3>   </h3>
+  <h3> Attendance record of a student  </h3>
   
  <img src="DEMO_IMAGES/demo4.png">
  
