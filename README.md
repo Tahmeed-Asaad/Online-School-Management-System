@@ -92,6 +92,8 @@ This school website has four users:
 <div>
   <h3> Result of searching attendance by date (3-1-2019)  </h3>
   
+  <h3> Similiar convenient features are availble to the teachers as well </h3>
+  
  <img src="DEMO_IMAGES/demo10.png">
  
  </div>
