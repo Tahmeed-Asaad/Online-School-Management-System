@@ -22,3 +22,4 @@ This school website has four users:
   b)add teachers and students routine
   c)add results, attendance records
   d)add news/events
+![](/DEMO IMAGES/demo1.bmp)
