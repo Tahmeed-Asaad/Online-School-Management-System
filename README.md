@@ -69,7 +69,7 @@ This school website has four users:
  </div>
 
 <div>
-  <h3>   </h3>
+  <h3> Student's profile  </h3>
   
  <img src="DEMO_IMAGES/demo7.png">
  
