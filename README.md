@@ -99,21 +99,21 @@ This school website has four users:
  </div>
 
 <div>
-  <h3> Guardians can view their child's exam results  </h3>
+  <h3> Features available to the guardians </h3>
   
  <img src="DEMO_IMAGES/demo11.png">
  
  </div>
 
 <div>
-  <h3> Guardians can view their child's attendance record  </h3>
+  <h3> Guardians can view their child's exam results  </h3>
   
  <img src="DEMO_IMAGES/demo12.png">
  
  </div>
 
 <div>
-  <h3>   </h3>
+  <h3> Guardians can view their child's attendance record  </h3>
   
  <img src="DEMO_IMAGES/demo13.png">
  
