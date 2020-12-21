@@ -25,3 +25,5 @@ This school website has four users:
   
   
 ![](DEMO_IMAGES/demo1.png)
+
+![](DEMO_IMAGES/demo2.png)
