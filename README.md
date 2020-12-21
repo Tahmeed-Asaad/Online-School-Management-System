@@ -23,4 +23,4 @@ This school website has four users:
   c)add results, attendance records
   d)add news/events
   
-![](DEMO IMAGES/demo1.PNG)
+![](DEMO_IMAGES/demo1.PNG)
