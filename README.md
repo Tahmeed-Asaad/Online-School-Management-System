@@ -25,7 +25,7 @@ This school website has four users:
   
 <div> 
  
-   Home Page  
+  <h3> Home Page  </h3>
 
  <img src="DEMO_IMAGES/demo1.png">
 
@@ -34,14 +34,19 @@ This school website has four users:
 
 <div>
 
-   Logg
+  <h3>Logging in as a student </h3>
   
  <img src="DEMO_IMAGES/demo2.png">
  
  </div>
  
 
-![](DEMO_IMAGES/demo3.png)
+<div>
+  <h3> Features available to the students  </h3>
+  
+ <img src="DEMO_IMAGES/demo3.png">
+ 
+ </div>
 
 ![](DEMO_IMAGES/demo4.png)
 
