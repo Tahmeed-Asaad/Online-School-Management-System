@@ -23,10 +23,23 @@ This school website has four users:
   c)add results, attendance records
   d)add news/events
   
-  
-![](DEMO_IMAGES/demo1.png)
+<div> 
+ 
+   Home Page  
 
-![](DEMO_IMAGES/demo2.png)
+ <img src="DEMO_IMAGES/demo1.png">
+
+ </div>
+
+
+<div>
+
+   Logg
+  
+ <img src="DEMO_IMAGES/demo2.png">
+ 
+ </div>
+ 
 
 ![](DEMO_IMAGES/demo3.png)
 
