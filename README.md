@@ -21,11 +21,11 @@ An online school management system is a website that is designed to streamline t
 
 This school website has four users:
 
-1.Teacher:
-  a)Download his schedule/routine
-  b)Search attendance by date(taken by him)
-  c)Search result by subject
-  d)View all the attendances taken by him
+1.Teacher:\
+  a)Download his schedule/routine\
+  b)Search attendance by date(taken by him)\
+  c)Search result by subject\
+  d)View all the attendances taken by him\
   
 2.Student:
   a)Download his class routine
