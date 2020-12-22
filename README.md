@@ -5,7 +5,7 @@
 
 * [Features](#features)
 
-* [Screenshots](#screenshots)
+* [Demo Screenshots](#demo-screenshots)
 
 
 ## Features
@@ -35,7 +35,7 @@ This school website has four users:
   c)Add results, attendance records
   d)Add news/events
   
-  ## Screenshots
+  ## Demo Screenshots
   
 <div> 
  
