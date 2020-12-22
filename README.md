@@ -22,26 +22,41 @@ An online school management system is a website that is designed to streamline t
 This school website has four users:
 
 1.Teacher:\
+
   a)Download his schedule/routine\
+  
   b)Search attendance by date(taken by him)\
+  
   c)Search result by subject\
+  
   d)View all the attendances taken by him\
   
-2.Student:
-  a)Download his class routine
-  b)Search his attendance by date
-  c)View all his attendance
-  d)View his result
+2.Student:\
+
+  a)Download his class routine\
   
-3.Guardian:
-  a)Download his/her children class routine
-  b)View his/her children attendance, result
-  c)Give review about school
+  b)Search his attendance by date\
   
-4.Admin:
-  a)Create account for teachers, students and guardians
-  b)Add teachers and students routine
-  c)Add results, attendance records
+  c)View all his attendance\
+  
+  d)View his result\
+  
+3.Guardian:\
+
+  a)Download his/her children class routine\
+  
+  b)View his/her children attendance, result\
+  
+  c)Give review about school\
+  
+4.Admin:\
+
+  a)Create account for teachers, students and guardians\
+  
+  b)Add teachers and students routine\
+  
+  c)Add results, attendance records\
+  
   d)Add news/events
   
   ## Technologies
