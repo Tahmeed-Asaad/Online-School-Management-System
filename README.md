@@ -1,29 +1,41 @@
 # Online School Management System
 
+
+## Table of contents
+
+* [Features](#features)
+
+
+
+
+
+
+## Features
+
 This school website has four users:
 
 1.Teacher:
-  a)download his schedule/routine
-  b)search attendance by date(taken by him)
-  c)search result by subject
-  d)view all the attendances taken by him
+  a)Download his schedule/routine
+  b)Search attendance by date(taken by him)
+  c)Search result by subject
+  d)View all the attendances taken by him
   
 2.Student:
-  a)download his class routine
-  b)search his attendance by date
-  c)view all his attendance
-  d)view his result
+  a)Download his class routine
+  b)Search his attendance by date
+  c)View all his attendance
+  d)View his result
   
 3.Guardian:
-  a)download his/her children class routine
-  b)view his/her children attendance, result
-  c)give review about school
+  a)Download his/her children class routine
+  b)View his/her children attendance, result
+  c)Give review about school
   
 4.Admin:
-  a)create account for teachers, students and guardians
-  b)add teachers and students routine
-  c)add results, attendance records
-  d)add news/events
+  a)Create account for teachers, students and guardians
+  b)Add teachers and students routine
+  c)Add results, attendance records
+  d)Add news/events
   
 <div> 
  
