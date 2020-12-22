@@ -5,11 +5,7 @@
 
 * [Features](#features)
 
-* [Screenshots](#demo)
-
-
-
-
+* [Screenshots](#screenshots)
 
 
 ## Features
@@ -41,7 +37,6 @@ This school website has four users:
   
   ## Screenshots
   
- 
 <div> 
  
   <h3> Home Page  </h3>
