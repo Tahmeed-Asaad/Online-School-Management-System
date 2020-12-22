@@ -21,7 +21,7 @@ An online school management system is a website that is designed to streamline t
 
 This school website has four users:
 
-1.Teacher:\
+1.Teacher:
 
   a)Download his schedule/routine\
   
