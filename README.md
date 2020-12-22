@@ -7,6 +7,10 @@
 
 * [Features](#features)
 
+* [Technologies](#technologies)
+
+
+
 * [Demo Screenshots](#demo-screenshots)
 
 ## Introduction
@@ -39,6 +43,14 @@ This school website has four users:
   b)Add teachers and students routine
   c)Add results, attendance records
   d)Add news/events
+  
+  ## Technologies
+  * ASP.NET MVC
+  * HTML
+  * Javascript
+  * CSS
+  * SCSS
+  * C#
   
   ## Demo Screenshots
   
