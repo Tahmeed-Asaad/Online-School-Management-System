@@ -3,10 +3,15 @@
 
 ## Table of contents
 
+* [Introduction](#introduction)
+
 * [Features](#features)
 
 * [Demo Screenshots](#demo-screenshots)
 
+## Introduction
+
+An online school management system is a website that is designed to streamline the paperless administration of schools and educational institutions. It consists of various modules that greatly help the teachers and staff to maintain student records, academic history, and other essential student information. This was a group project built for an undergraduate academic course.
 
 ## Features
 
