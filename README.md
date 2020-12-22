@@ -5,6 +5,8 @@
 
 * [Features](#features)
 
+* [Demo Screenshots](#demo)
+
 
 
 
@@ -37,6 +39,9 @@ This school website has four users:
   c)Add results, attendance records
   d)Add news/events
   
+  ## Demo Screenshots
+  
+ 
 <div> 
  
   <h3> Home Page  </h3>
