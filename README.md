@@ -23,41 +23,41 @@ This school website has four users:
 
 1.Teacher:
 
-  a)Download his schedule/routine
+  * Download his schedule/routine
   
-  b)Search attendance by date(taken by him)
+  * Search attendance by date(taken by him)
   
-  c)Search result by subject
+  * Search result by subject
 
-  d)View all the attendances taken by him
+  * View all the attendances taken by him
   
 2.Student:
 
-  a)Download his class routine
+  * Download his class routine
   
-  b)Search his attendance by date
+  * Search his attendance by date
   
-  c)View all his attendance
+  * View all his attendance
   
-  d)View his result
+  * View his result
   
 3.Guardian:
 
-  a)Download his/her children class routine
+  * Download his/her children class routine
   
-  b)View his/her children attendance, result
+  * View his/her children attendance, result
   
-  c)Give review about school
+  * Give review about school
   
 4.Admin:
 
-  a)Create account for teachers, students and guardians
+  * Create account for teachers, students and guardians
   
-  b)Add teachers and students routine
+  * Add teachers and students routine
   
-  c)Add results, attendance records
+  * Add results, attendance records
   
-  d)Add news/events
+  * Add news/events
   
   ## Technologies
   * ASP.NET MVC
