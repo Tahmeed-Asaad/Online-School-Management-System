@@ -23,39 +23,39 @@ This school website has four users:
 
 1.Teacher:
 
-  a)Download his schedule/routine\
+  a)Download his schedule/routine
   
-  b)Search attendance by date(taken by him)\
+  b)Search attendance by date(taken by him)
   
-  c)Search result by subject\
-  
-  d)View all the attendances taken by him\
-  
-2.Student:\
+  c)Search result by subject
 
-  a)Download his class routine\
+  d)View all the attendances taken by him
   
-  b)Search his attendance by date\
-  
-  c)View all his attendance\
-  
-  d)View his result\
-  
-3.Guardian:\
+2.Student:
 
-  a)Download his/her children class routine\
+  a)Download his class routine
   
-  b)View his/her children attendance, result\
+  b)Search his attendance by date
   
-  c)Give review about school\
+  c)View all his attendance
   
-4.Admin:\
+  d)View his result
+  
+3.Guardian:
 
-  a)Create account for teachers, students and guardians\
+  a)Download his/her children class routine
   
-  b)Add teachers and students routine\
+  b)View his/her children attendance, result
   
-  c)Add results, attendance records\
+  c)Give review about school
+  
+4.Admin:
+
+  a)Create account for teachers, students and guardians
+  
+  b)Add teachers and students routine
+  
+  c)Add results, attendance records
   
   d)Add news/events
   
