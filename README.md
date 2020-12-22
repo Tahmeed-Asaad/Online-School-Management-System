@@ -9,9 +9,9 @@
 
 * [Technologies](#technologies)
 
-
-
 * [Demo Screenshots](#demo-screenshots)
+
+* [Setup](#setup)
 
 ## Introduction
 
@@ -164,3 +164,7 @@ This school website has four users:
  <img src="DEMO_IMAGES/demo13.png">
  
  </div>
+ 
+ ## Setup
+ 
+It is better to use Microsoft Visual Studio IDE (Integrated Development Environment) to run this project properly. The 'OnlineSchool.sln' file should be opened with the IDE to  built the project and to run it.
