@@ -66,6 +66,8 @@ This school website has four users:
   * CSS
   * SCSS
   * C#
+  * Microsoft SQL Server
+  * Microsoft Visual Studio
   
   ## Demo Screenshots
   
